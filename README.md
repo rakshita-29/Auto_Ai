@@ -26,3 +26,4 @@ Python
 Google Colab
 Gradio
 REST API (deployment)
+<img width="2159" height="1231" alt="Screenshot 2025-07-13 233546" src="https://github.com/user-attachments/assets/e8eab3db-3dec-4e15-87bc-9e51b1c656d3" />
